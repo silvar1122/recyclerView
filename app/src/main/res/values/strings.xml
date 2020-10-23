@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Months</string>
+    <string-array name="spinner_values">
+        <item>Happy </item>
+        <item>Exciting</item>
+        <item>Fantastic </item>
+        <item>Crazy </item>
+        <item>Sad </item>
+    </string-array>
 </resources>
